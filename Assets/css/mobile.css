@@ -74,7 +74,7 @@
                         z-index:9; 
                         position:absolute;
                     }
-                    .img{
+                    img{
                         width:168px;
                         z-index:-9;
                     }
