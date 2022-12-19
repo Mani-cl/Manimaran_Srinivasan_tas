@@ -28,7 +28,7 @@ box-sizing:border-box;}
                margin-left:5%;
            
                 z-index:9;
-                margin-top:5%;}
+                margin-top:-100%;}
                 .container-inner-content{
                     width:340px;
                     height:20vh;
