@@ -145,6 +145,8 @@ box-sizing:border-box;}
                         color:#2F4858;
                         margin-top:5%;
                         margin-left:40%;
+                           position:absolute;
+                           padding:3% 5%;
                         
                     }
                     form{
